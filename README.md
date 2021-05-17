@@ -4,7 +4,7 @@
 的追番插件
 
 ## 预览图
-
+![bangumi.png](https://i.loli.net/2021/05/17/7i5p4BgsqKFuUPz.png)
 
 ## 使用方法
 1. 将正在使用的主题的默认模板复制一份
