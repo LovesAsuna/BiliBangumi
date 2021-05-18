@@ -7,6 +7,7 @@
 ![bangumi.png](https://i.loli.net/2021/05/17/7i5p4BgsqKFuUPz.png)
 
 ## 使用方法
+> 仅在Handsome主题测试通过，其他主题使用时可能出现奇怪的变样，可自行修改css来达到最好的效果
 1. 将正在使用的主题的默认模板复制一份
 2. 如果模板主题没有以下代码请添加，如有，请跳过此步骤
 ```injectablephp
