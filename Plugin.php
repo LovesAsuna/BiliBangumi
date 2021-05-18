@@ -75,7 +75,7 @@ class BiliBangumi_Plugin implements Typecho_Plugin_Interface {
 <script type="text/javascript">
      function reload(url) {
          $.get(url, function(data) {
-             $("article.post-item").html(data);
+             $("#post-content").append(data);
          })
      }
 </script>
